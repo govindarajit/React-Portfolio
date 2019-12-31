@@ -41,14 +41,7 @@ let resumeData = {
         "MonthOfLeaving":"Jan",
         "YearOfLeaving":"2019",
         "Achievements":"Some Achievements"
-      },
-      {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
-      }
+      } 
     ],
     "skillsDescription":"Your skills here",
     "skills":[
